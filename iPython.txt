@@ -1,0 +1,27 @@
+Useful links for iPython Notebooks:
+
+Shortcuts in iPython - https://damontallen.github.io/IPython-quick-ref-sheets/
+
+Intersting iPython videos - http://ipython.org/videos.html
+
+Here is the link for the iPython Notebook viewer:
+
+http://nbviewer.ipython.org/github/jmportilla/Udemy-notes/tree/master/
+
+Reference for all of numpy: 
+
+http://docs.scipy.org/doc/numpy/reference/ 
+
+For Universal Array Funtions:
+http://docs.scipy.org/doc/numpy/reference/ufuncs/htm;#available-ufuncs
+
+Supplemental materials in case your interested in more than just the video lectures: 
+
+http://cs231n.github.io/python-numpy-tutorial/ 
+
+For built in methods to read csv files: https://docs.python.org/2/library/csv.html
+
+
+Alt + Enter
+Shift + Enter
+
